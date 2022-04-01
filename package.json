@@ -1,0 +1,27 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "CLI rpg with jest to test",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superfishal/jest-another-rpg.git"
+  },
+  "keywords": [
+    "jest",
+    "cli",
+    "javascript"
+  ],
+  "author": "Andrew Fish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/superfishal/jest-another-rpg/issues"
+  },
+  "homepage": "https://github.com/superfishal/jest-another-rpg#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
