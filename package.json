@@ -23,5 +23,8 @@
   "homepage": "https://github.com/superfishal/jest-another-rpg#readme",
   "devDependencies": {
     "jest": "^27.5.1"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.2"
   }
 }
